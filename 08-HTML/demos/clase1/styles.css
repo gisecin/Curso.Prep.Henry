@@ -1,0 +1,18 @@
+h1{
+    color: red;
+  }
+  img{
+    width: 400px;
+  }
+  #thirDiv{
+    width: 500px;
+    height: 600px;
+    background-color: salmon;
+    margin: 50px;
+    padding: 50px;
+    border: 3px solid blue;
+  }
+  #spanId{
+    font-size: 18px;
+    
+  }
